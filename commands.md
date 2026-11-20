@@ -13,3 +13,10 @@ man <command>
 <command> --help
 sudo shutdown -h now
 
+
+# VIM SECTION
+vim commands
+H - left
+L - right
+J - Down
+L - Up
